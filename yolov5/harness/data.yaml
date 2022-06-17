@@ -1,0 +1,7 @@
+train: ./harness/train/images
+test: ./harness/test/images
+val: ./harness/valid/images
+
+nc: 5
+names: ['Helmet', 'NoHelmet', 
+'Harness','NoHarness','Lifeline']

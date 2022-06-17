@@ -1,0 +1,5 @@
+[default]
+entity = doil
+project = harness
+base_url = https://api.wandb.ai
+
